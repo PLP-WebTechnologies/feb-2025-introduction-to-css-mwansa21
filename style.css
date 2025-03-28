@@ -1,0 +1,33 @@
+/* Style for the body of the document */
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for a class selector  */
+.text-content {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Style for an ID selector */
+#main-header {
+    color: #ffffff;
+    background-color: #4CAF50;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+}
+
+/* Style for an image */
+img {
+    width: 100%;
+    height: auto;
+    border: 5px solid #ddd;
+    margin: 20px 0;
+}
